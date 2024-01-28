@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yashraj Songara , it's pleasure to meet you
-- 👀 I’m interested in developing the beckend of websites.
+- 👀 I’m interested in developing the backend of websites.
 - 🌱 I’m currently learning Node.Js
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
